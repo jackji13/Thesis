@@ -1,3 +1,5 @@
+![Header Image](documentation/image/header.jpg)
+
 # Thesis Journal
 
 ## 1. Conceptual Research Directions
