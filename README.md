@@ -63,3 +63,12 @@ The booth reactivates the paradox of public privacy: people having intimate conv
 - Build a futuristic phone booth installation that connects users to thousands of fictional personas through AI-generated conversations.
 - Test how audiences react when they realize they are speaking to no one "real," yet still experience genuine emotions.
 - Use the fake yellow pages as both a playful archive and a way to structure the experiment: dialing numbers becomes a ritual, and each number unlocks a new persona.
+
+## 4. Concept & Prototype
+
+![Prototype 01](documentation/image/prototype%2001.jpg)
+![Prototype 02](documentation/image/prototype%2002.png)
+
+To begin testing how human–machine intimacy might be framed through design, I created a 1:10 scale prototype using 3D-printed PLA parts and screws. The structure is semi-open with straight, minimal planes, emphasizing a futuristic and mechanical presence. This model was less about interactivity and more about exploring form: how the physical silhouette and assembly methods can signal authority, strangeness, and anticipation of a machine encounter.
+
+The process revealed how practical design choices—flat planes, intersecting joints, visible fasteners—produced unexpected sculptural clarity. Even at a small scale, the form felt deliberate and monumental, suggesting that the booth itself could act as more than a container: it could be a stage for projection and encounter. Future iterations will explore surface treatments and larger-scale prototypes to test how these qualities translate to a full installation.
