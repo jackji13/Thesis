@@ -66,8 +66,10 @@ The booth reactivates the paradox of public privacy: people having intimate conv
 
 ## 4. Concept & Prototype
 
-![Prototype 01](documentation/image/prototype%2001.jpg)
-![Prototype 02](documentation/image/prototype%2002.png)
+<div align="center">
+  <img src="documentation/image/prototype%2001.jpg" alt="Prototype 01" width="39%">
+  <img src="documentation/image/prototype%2002.png" alt="Prototype 02" width="45%">
+</div>
 
 To begin testing how human–machine intimacy might be framed through design, I created a 1:10 scale prototype using 3D-printed PLA parts and screws. The structure is semi-open with straight, minimal planes, emphasizing a futuristic and mechanical presence. This model was less about interactivity and more about exploring form: how the physical silhouette and assembly methods can signal authority, strangeness, and anticipation of a machine encounter.
 
