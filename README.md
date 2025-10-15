@@ -2,6 +2,10 @@
 
 # Thesis Journal
 
+## Project Focus
+
+How might people experience intimacy, trust, and emotional connection when interacting with machines, and how can design communicate both the familiarity and strangeness of such encounters?
+
 ## 1. Conceptual Research Directions
 
 ### Human–Machine Interaction (HMI)
@@ -74,3 +78,15 @@ The booth reactivates the paradox of public privacy: people having intimate conv
 To begin testing how human–machine intimacy might be framed through design, I created a 1:10 scale prototype using 3D-printed PLA parts and screws. The structure is semi-open with straight, minimal planes, emphasizing a futuristic and mechanical presence. This model was less about interactivity and more about exploring form: how the physical silhouette and assembly methods can signal authority, strangeness, and anticipation of a machine encounter.
 
 The process revealed how practical design choices—flat planes, intersecting joints, visible fasteners—produced unexpected sculptural clarity. Even at a small scale, the form felt deliberate and monumental, suggesting that the booth itself could act as more than a container: it could be a stage for projection and encounter. Future iterations will explore surface treatments and larger-scale prototypes to test how these qualities translate to a full installation.
+
+## 5. Interactive Prototype
+
+![Prototype 03](documentation/image/prototype%2003.jpg)
+
+### Document & Reflection
+
+Over this cycle I combined two research techniques—precedent analysis and a semi-structured expert interview—with a hands-on, full-scale interaction prototype. Studying ELIZA, Lozano-Hemmer, Blast Theory, and QS Ventures helped me name the qualities I'm after: a voice-first encounter that feels familiar yet strange, credible without over-explaining, and staged through a reduced, retro-futurist form. That review clarified my design drivers (geometric planes, exposed joinery, minimal cues, ritualized dialing) and gave me criteria to judge the build: legibility of affordances, perceived "presence," and whether fiction remains believable.
+
+I interviewed Robert Hickman, a sculptor known for public installations that balance approachability and durability. His advice grounded my aesthetic and structural choices. He emphasized that a piece feels "inviting" when it meets people at hand or eye level and avoids overly sharp or closed geometries. He also stressed material honesty—forms that look heavy should be heavy—and noted that signage rarely guides interaction; people respond more to tactile and spatial cues. From him I learned that warmth can come from proportion and finish, not literal decoration, and that public work succeeds when it seems sturdy yet touchable. His remarks reinforced my aim to make the booth accessible and ritualistic rather than decorative.
+
+For user testing, I built a cardboard prototype with an embedded handset and numpad connected to my laptop, where the software was fully functional for calls to ten personas. Users could complete the ritual (find → dial → lift) with minimal instruction, suggesting that the affordances read. Some described the form as "cold" and "machine-like," aligning with my minimalist–brutalist intention, while a few didn't immediately read it as a "phone booth" compared to my previous 3D-printed prototype—which I see as a productive strangeness. Next, I plan to refine the proportions, round select edges, add a small platform shelf for the phone book, and integrate subtle LED/state cues to test legibility, latency, feel, and perceived presence. I also plan to make the interaction feel more realistic by updating the software—for example, adding latency between dialing and the persona picking up, letting some personas not answer at all, and including sound effects such as dialing tones and handset pick-up and hang-up sounds.
