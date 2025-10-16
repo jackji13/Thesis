@@ -81,7 +81,7 @@ The process revealed how practical design choices—flat planes, intersecting jo
 
 ## 5. Interactive Prototype
 
-![Prototype 03](documentation/image/prototype%2003.jpg)
+![Prototype 03](documentation/image/prototype%2003.png)
 
 ### Document & Reflection
 
